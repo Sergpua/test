@@ -2,3 +2,5 @@ Conflict with third
 Another conflict
 Something else
 One more
+Third
+Third new commit
