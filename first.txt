@@ -1,3 +1,4 @@
 Conflict with third
-Another conflict 
+Another conflict
+Something else
 One more
