@@ -1,2 +1,1 @@
-Not First change. Add Conflicting
-Conflicting change
+Conflict with third
