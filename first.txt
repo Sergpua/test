@@ -1,2 +1,4 @@
 Not First change. Add Conflicting
 Conflicting change
+Initial changes
+Conflicting change
